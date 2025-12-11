@@ -2,12 +2,11 @@
 
 ## About
 
-I am Nur! I'm currently pursuing a degree in Data Science at UW–Madison with a strong interest in cleaning messy datasets, exploring patterns, and turning data into insights that matter. My goal after I graduate is to work in data analytics, ideally in the social impact or public health space. I am actively seeking opportunities in Data Analytics and am open to Business Intelligence roles where I can apply my skills in data exploration, visualization, and stakeholder communication to solve real-world problems.
+I am Nur! I'm currently pursuing a degree in Data Science at UW–Madison with a strong interest in cleaning messy datasets, exploring patterns, and turning data into insights that matter. My goal after I graduate is to work in data analytics, ideally in the social impact or public health space. I am actively seeking opportunities in Data Analytics where I can apply my skills in data exploration, visualization, and stakeholder communication to solve real-world problems.
 
 ## Portfolio Projects
 
 ### 📊 Yellow Taxi NYC Report
-**File:** [`Yellow Taxi NYC Report.pdf`](Yellow%20Taxi%20NYC%20Report.pdf)
 
 **Goal:** To analyze how COVID-19 impacted NYC’s yellow taxi system by examining trends in trip volume, fare pricing, and trip duration from 2015 to 2025.
 
@@ -40,7 +39,6 @@ Spatial-temporal heatmaps for demand visualization
 ---
 
 ### 🔍 Gun Analysis Report
-**File:** [`Gun analysis report.pdf`](Gun%20analysis%20report.pdf)
 
 **Goal:** To analyze the lethality of gun violence incidents in the U.S. based on gun characteristics—specifically type of firearm (long vs. short barrel) and ownership status (stolen vs. not-stolen).
 
